@@ -1,3 +1,6 @@
 [submodule "Blender-notebook"]
 	path = Blender-notebook
 	url = https://github.com/Ninot1Quyi/Blender-notebook.git
+[submodule "git-notebook"]
+	path = git-notebook
+	url = https://github.com/Ninot1Quyi/git-notebook.git
