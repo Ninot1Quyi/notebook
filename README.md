@@ -1,9 +1,13 @@
 # notebook
 学习过程中所有的笔记汇总
 
+首次克隆仓库及其模块
 
+```
+git clone --recursive https://github.com/Ninot1Quyi/notebook.git
+```
 
-拉取后更新还需拉取子模块
+拉取后更新，还需拉取全部子模块
 
 ```
 git submodule update --init --recursive
